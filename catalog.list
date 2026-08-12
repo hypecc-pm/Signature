@@ -6,3 +6,4 @@ raylib
 pcap
 ncurses
 sqlite3
+sqlite_orm
