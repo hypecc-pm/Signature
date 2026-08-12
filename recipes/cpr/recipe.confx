@@ -1,1 +1,8 @@
-
+name=cpr
+version=1.10.5
+description=C++ Requests: Curl for People, a modern C++ HTTP client library
+license=MIT
+type=compiled
+include_dirs=/usr/local/include
+libs=-lcpr -lcurl
+requires=
