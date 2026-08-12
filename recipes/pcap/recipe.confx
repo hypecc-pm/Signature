@@ -1,1 +1,8 @@
-
+name=pcap
+version=1.10.4
+description=System-independent interface for user-level packet capture
+license=BSD-3-Clause
+type=compiled
+include_dirs=/usr/local/include
+libs=-lpcap
+requires=
