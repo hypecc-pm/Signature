@@ -1,1 +1,7 @@
-
+name=stb
+version=1.0.0
+description=Single-file public domain libraries for C/C++
+license=Unlicense
+type=header-only
+include_dirs=/usr/local/include;/usr/local/include/stb
+requires=
