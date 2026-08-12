@@ -1,0 +1,7 @@
+name=toml11
+version=4.3.0
+description=TOML for Modern C++
+license=MIT
+type=header-only
+include_dirs=/usr/local/include
+requires=
