@@ -1,0 +1,8 @@
+name=yaml-cpp
+version=0.8.0
+description=A YAML parser and emitter in C++
+license=MIT
+type=compiled
+include_dirs=/usr/local/include
+libs=-lyaml-cpp
+requires=
