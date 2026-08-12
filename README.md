@@ -1,6 +1,6 @@
 # The Signature Project: Autonomous Recipe Registry and Metadata Pipeline for C/C++ Ecosystems
 
-The Signature Project is the official, decentralized recipe registry engineered specifically to provide raw compilation blueprints and dependency metadata to the **hypecc** C/C++ package manager. Functioning as the single source of truth for upstream library mapping, Signature replaces bloated build scripts, complex markup languages (such as TOML or JSON), and rigid container abstractions with ultra-lightweight, plain text `.conf` directives. It acts as a stateless, high-performance registry layer that allows developers to declare source endpoints, header directories, compiler flags, and linking specifications with zero runtime overhead.
+The Signature Project is the official, decentralized recipe registry engineered specifically to provide raw compilation blueprints and dependency metadata to the **hypecc** C/C++ package manager. Functioning as the single source of truth for upstream library mapping, Signature replaces bloated build scripts, complex markup languages (such as TOML or JSON), and rigid container abstractions with ultra-lightweight, plain text `.confx` directives. It acts as a stateless, high-performance registry layer that allows developers to declare source endpoints, header directories, compiler flags, and linking specifications with zero runtime overhead.
 
 ---
 
