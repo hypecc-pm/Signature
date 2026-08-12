@@ -1,1 +1,8 @@
-
+name=imgui
+version=1.90.0
+description=Bloat-free Graphical User Interface for C++ with minimal dependencies
+license=MIT
+type=compiled
+include_dirs=/usr/local/include;/usr/local/include/imgui
+libs=-limgui
+requires=
