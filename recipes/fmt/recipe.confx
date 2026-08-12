@@ -1,1 +1,8 @@
-
+name=fmt
+version=10.2.1
+description=A modern formatting library for C++
+license=MIT
+type=compiled
+include_dirs=/usr/local/include
+libs=-lfmt
+requires=
