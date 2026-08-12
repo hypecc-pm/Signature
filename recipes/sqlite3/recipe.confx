@@ -1,1 +1,8 @@
-
+name=sqlite3
+version=3.45.0
+description=A C-library that implements a self-contained, serverless SQL database engine
+license=Unlicense
+type=compiled
+include_dirs=/usr/local/include
+libs=-lsqlite3
+requires=
