@@ -1,1 +1,8 @@
-
+name=ncurses
+version=6.4
+description=Free software emulation of curses terminal control library
+license=MIT
+type=compiled
+include_dirs=/usr/local/include;/usr/local/include/ncursesw
+libs=-lncursesw
+requires=
