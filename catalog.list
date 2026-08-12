@@ -4,3 +4,4 @@ nlohmann-json
 cpr
 raylib
 pcap
+ncurses
