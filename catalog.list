@@ -8,3 +8,4 @@ ncurses
 sqlite3
 sqlite_orm
 toml11
+yaml-cpp
