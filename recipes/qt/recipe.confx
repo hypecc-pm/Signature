@@ -1,1 +1,8 @@
-
+name=qt
+version=6.7.2
+description=Cross-platform application development framework
+license=LGPL-3.0
+type=compiled
+include_dirs=/usr/local/include/qt6
+libs=-lQt6Core -lQt6Gui -lQt6Widgets
+requires=
