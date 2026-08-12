@@ -1,1 +1,7 @@
-
+name=nlohmann-json
+version=3.11.3
+description=JSON for Modern C++
+license=MIT
+type=header-only
+include_dirs=/usr/local/include
+requires=
