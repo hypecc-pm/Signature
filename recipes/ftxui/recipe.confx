@@ -1,1 +1,8 @@
-
+name=ftxui
+version=5.0.0
+description=C++ Functional Terminal User Interface Library
+license=MIT
+type=compiled
+include_dirs=/usr/local/include
+libs=-lftxui-component -lftxui-dom -lftxui-screen
+requires=
